@@ -1,17 +1,6 @@
 ## Olá, eu sou Daniel Cesar 👋
-### Desenvolvedor Full stack em formação e entusiasta de tecnologias mobile e blockchain.
+### Desenvolvedor Backend e entusiasta de tecnologias mobile e blockchain.
 
-##
-
-</br>
-
-<div>
-  <a href="https://github.com/danielcsar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielcsar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcsar&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
-##
 <div style="display: inline"><br>
 
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
