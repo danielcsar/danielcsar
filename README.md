@@ -8,7 +8,7 @@ Contributing to code reviews and process improvements.
 Mainly using Python, FastAPI, Django, MySQL, PostgreSQL, RabbitMQ, Kafka, MongoDB, Redis, Docker, Kubernetes and Linux.
 
 In addition to some other projects developed using:
- - Backend: Node.js, GoLang
+ - Backend: Java, GoLang
  - Blockchain: Solidity
  - Mobile: Swift (iOS Native), Flutter.
 
